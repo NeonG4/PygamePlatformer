@@ -1,9 +1,12 @@
 5/26/23
--File Updates: 
--=-Added UpdateFile.txt
--=-=-UpdateFile is where the update log is
--Main Updates:
--=-Bugfix in collision 
--=-=-The last cube calculated would override all collision
--Other
--=-None
+-File Updates:
+-=-Created ReadMe.md file
+-=-=-Basic description to the file
+-=-Created main.py file
+-=-=-Where all the main code goes, including the platform scripts
+-=-Created UpdateLog.txt
+-=-=-A way to see updates in code (like this one!)
+-Code updates:
+-=-Imported code from project
+-=-=-Code was imported from techsmart platform
+-=-=-=-techsmart platform is a coding website for students
