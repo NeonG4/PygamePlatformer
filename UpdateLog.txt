@@ -1,0 +1,9 @@
+5/26/23
+-File Updates: 
+-=-Added UpdateFile.txt
+-=-=-UpdateFile is where the update log is
+-Main Updates:
+-=-Bugfix in collision 
+-=-=-The last cube calculated would override all collision
+-Other
+-=-None
